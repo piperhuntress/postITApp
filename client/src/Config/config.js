@@ -1,4 +1,4 @@
 //local
 //export const URL = "http://localhost:3002";
 //production
-export const URL = "https://postit-jxdk.onrender.com/";
+export const URL = "https://positapp.onrender.com"; //server URL
