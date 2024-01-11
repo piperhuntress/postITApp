@@ -1,0 +1,6 @@
+Colors (NUCLEO pallette) 
+Primary - (Caput mortuum) #522a27
+Secondary - Satin Sheen Gold #c59849
+Tertiary - Sinopia #C73E1D
+Fourth - Olivine #9CB380
+Fifth - A6D49F
