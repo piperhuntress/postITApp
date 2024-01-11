@@ -1,7 +1,6 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
-
-const URL = process.env.REACT_APP_URL;
+import { URL } from "../Config/config";
 
 export const registerUser = createAsyncThunk(
   "users/registerUser",
